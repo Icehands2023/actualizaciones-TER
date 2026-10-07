@@ -1,0 +1,32 @@
+{
+  "version": "4.6.0",
+  "fecha": "2026-10-02",
+  "instalador": "TER Registro de Imagenes de Fabricacion Setup 4.6.0.exe",
+  "novedades": "v4.6.0: al iniciar, la aplicación avisa si hay una versión nueva en la carpeta de actualizaciones y permite actualizar ahora o más tarde (se puede desactivar en Configuración). v4.5.0: las propiedades de la imagen se muestran en una ventana flotante y movible, con fechas de alta y modificación, datos de cámara (EXIF), archivo de origen y datos de la ficha (cambio de esquema con migración automática de la base de datos). v4.4.0: botón Propiedades en el visor. v4.3.0: nueva sección Configuración (formato JPEG/WebP, peso objetivo, máximo de imágenes, aviso de copia de seguridad y lupa). v4.2.0: soporte de imágenes TIFF.",
+  "versionesAnteriores": [
+    {
+      "version": "4.5.0",
+      "instalador": "TER Registro de Imagenes de Fabricacion Setup 4.5.0.exe"
+    },
+    {
+      "version": "4.4.0",
+      "instalador": "TER Registro de Imagenes de Fabricacion Setup 4.4.0.exe"
+    },
+    {
+      "version": "4.3.0",
+      "instalador": "TER Registro de Imagenes de Fabricacion Setup 4.3.0.exe"
+    },
+    {
+      "version": "4.2.0",
+      "instalador": "TER Registro de Imagenes de Fabricacion Setup 4.2.0.exe"
+    },
+    {
+      "version": "4.1.3",
+      "instalador": "TER Registro de Imagenes de Fabricacion Setup 4.1.3.exe"
+    },
+    {
+      "version": "3.4.16",
+      "instalador": "TER Registro de Imagenes de Fabricacion Setup 3.4.16.exe"
+    }
+  ]
+}
